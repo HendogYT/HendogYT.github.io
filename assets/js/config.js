@@ -11,7 +11,7 @@
 var CFG = {
   IP: "hendogsmp.net",
   DISCORD_URL: "",   // e.g. "https://discord.gg/yourinvite"
-  STORE_URL: "",     // e.g. "https://hendogsmp.tebex.io"
+  STORE_URL: "https://creator.tebex.io/dashboard",     // e.g. "https://hendogsmp.tebex.io"
   TERMS_URL: "",
   PRIVACY_URL: ""
 };
